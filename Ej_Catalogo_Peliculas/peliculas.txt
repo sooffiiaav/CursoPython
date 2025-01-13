@@ -1,0 +1,3 @@
+f{pelicula._nombre}
+Harry Potter
+Nombre de la pelicula:  Hola
